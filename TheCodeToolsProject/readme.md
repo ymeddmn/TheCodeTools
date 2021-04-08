@@ -1,16 +1,24 @@
 ## 相关工具类名称以及功能介绍
 
-### IpUtils
+#### 
+
+### 1、IpUtils
 
 ip地址相关的工具类
 
-### MacAddressUtils
+### 2、MacAddressUtils
 
 mac地址相关的工具类
 
-### SoManyUtils
+### 3、SoManyUtils
 
 多个工具类的集合
+
+### 4、RomUtilsEx
+
+android多个机型的悬浮窗权限申请
+
+权限申请方法：RomUtilsEx.applyPermission(this);
 
 #### 功能介绍
 
@@ -41,7 +49,7 @@ mac地址相关的工具类
 | 获得sdk版本                | getSdkVersion      |
 | 进行md5加密                | md5                |
 
-
+### 5、未
 
 
 
